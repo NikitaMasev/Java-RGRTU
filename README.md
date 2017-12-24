@@ -1,6 +1,6 @@
 # Course project for RGRTU (RSREU)
 
-Describtion of project:
+Description of project:
 > Take some simple 2D game or come up game concept.
 > Demonstrate knowledge of java, accumulated the course of some studing:
   - Use threads
