@@ -7,4 +7,4 @@ Description of project:
   - There must be common list for threads
   - Use synchronization
 ______
- `Project made in Eclipse Mars`
+ **Project made in Eclipse Mars**
