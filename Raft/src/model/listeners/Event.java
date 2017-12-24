@@ -1,0 +1,5 @@
+package model.listeners;
+
+public enum Event {
+	MOVE, INITIALIZE, DEATH, DEATH_RAFT, CHANGE_FRAME, START_AUDIO, STOP_AUDIO, STOP_THREAD, ADD_RAFT_PANEL, WIN;
+}
