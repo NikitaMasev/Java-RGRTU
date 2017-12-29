@@ -5,4 +5,4 @@ Description of project:
 - Loading data of points from file
 - Make modes: "full" and "step by step" execution
 ______
-**Project made in Intellij IDEA Ultimate 2017.2, JavaFX**
+**Project made in Intellij IDEA Ultimate 2017.2, JavaFX, Java SE 1.8**
